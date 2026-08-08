@@ -2,3 +2,5 @@ duckdb
 dotenv
 flask
 flask_cors
+pandas
+streamlit
