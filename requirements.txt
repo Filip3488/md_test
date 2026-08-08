@@ -1,0 +1,5 @@
+duckdb
+os
+dotenv
+flask
+flask_cors
